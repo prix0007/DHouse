@@ -144,6 +144,14 @@ class App extends React.Component {
           </div>
         </div>
         </div>
+        <footer class="footer">
+          <div class="content has-text-centered">
+            <p>
+              <strong>Dhouse</strong> by <a href="https://prix.vercel.app" target="_blank">Prince Anuragi</a>. View it on 
+              <a href="https://github.com/prix0007/DHouse" target="_blank">Github</a>.
+            </p>
+          </div>
+        </footer>
       </div>
     );
   }
